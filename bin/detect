@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# bin/use <build-dir>
+
+echo "data2ml Service Registry Server"
+exit 0
